@@ -1,0 +1,20 @@
+# project
+ediet file
+Najat Alhashim
+Business Analysies
+while True:
+    n = input('Please Enter a number: ')
+    try:
+        nInt = int(n)
+    except:
+        print ('Please provide a proper Input...')
+        continue
+    break
+print ('Even')  if nInt%2==0 else print ('Odd')
+
+one
+two
+three
+one
+two
+three
